@@ -1,5 +1,3 @@
-
-
 public class CBBAtividadePratica2{
     public static void main(String[] args){
         int nota1 = 5;
