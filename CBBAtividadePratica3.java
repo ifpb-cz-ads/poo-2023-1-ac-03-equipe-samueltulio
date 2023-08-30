@@ -6,7 +6,7 @@ public class CBBAtividadePratica3{
         double base = scanner.nextDouble();
         System.out.print("Informe a altura de um retângulo:");
         double altura = scanner.nextDouble();
-        double area = (base*altura)/2;
+        double area = (base*altura);
         System.out.println("A Area do retângulo é:" + area);
     }
    
