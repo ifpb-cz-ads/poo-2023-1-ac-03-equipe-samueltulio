@@ -8,6 +8,7 @@ public class CBBAtividadePratica3{
         double altura = scanner.nextDouble();
         double area = (base*altura)/2;
         System.out.println("A Area do triangulo é:" + area);
+        scanner.close();
     }
    
 }

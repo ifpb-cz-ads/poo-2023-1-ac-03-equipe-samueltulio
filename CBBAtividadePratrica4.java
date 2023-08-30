@@ -13,7 +13,7 @@ public class CBBAtividadePratrica4{
          double cubagem = comprimento * largura * profundidade;
          double valorTotal = cubagem * CEM;
          System.out.printf("O valor total para a construção da piscina é de R$%.2f",valorTotal);
-         
+         scanner.close();
          
      }
  
